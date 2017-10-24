@@ -22,10 +22,10 @@
   AND: all opening and closing square brackets "[]" are balanced
 ]
 >>++. Print "H"
->>+. Print "e"
->--. Print "l"
-. Print "l"
-+++. Print "o"
+>>+. Print "a"
+>--. Print "n"
+. Print "d"
++++. Print "s"
 <<<<++. Print " " (spacebar character)
 >>---. Print "W"
 >>. Print "o"
